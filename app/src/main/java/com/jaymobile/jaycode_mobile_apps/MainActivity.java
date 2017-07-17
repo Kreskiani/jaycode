@@ -1,4 +1,4 @@
-package com.jaycode.jayacoding.jaycode_mobile_apps;
+package com.jaymobile.jaycode_mobile_apps;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

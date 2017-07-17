@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jaycode.jayacoding.jaycode_mobile_apps">
+    package="com.jaymobile.jaycode_mobile_apps">
 
     <application
         android:allowBackup="true"

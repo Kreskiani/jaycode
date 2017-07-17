@@ -1,4 +1,4 @@
-package com.jaycode.jayacoding.jaycode_mobile_apps;
+package com.jaymobile.jaycode_mobile_apps;
 
 import org.junit.Test;
 

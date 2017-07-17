@@ -5,7 +5,7 @@ android {
     buildToolsVersion "26.0.0"
 
     defaultConfig {
-        applicationId "com.jaycode.jayacoding.jaycode_mobile_apps"
+        applicationId "com.jaymobile.jaycode_mobile_apps"
         minSdkVersion 18
         targetSdkVersion 26
         versionCode 1
